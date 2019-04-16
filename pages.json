@@ -1,0 +1,79 @@
+[{ "Title": "Google", "Description": "", "Keywords": "", "URL": "https://google.com"},
+
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://localhost/test.php"},
+{ "Title": "YouTube", "Description": "Share your videos with friends, family, and the world.", "Keywords": "", "URL": "http://www.youtube.com/upload"},
+
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://localhost/../../anotherpage.php"},
+
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://localhost/se/test.html#anchor"},
+
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.djfhjkjs.com/somepage.php"},
+
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://localhost/se/moore.php"},
+{ "Title": "Google Accounts", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/signin/usernamerecovery?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26next%3D%252Fupload%26feature%3Dredirect_login%26app%3Ddesktop%26action_handle_signin%3Dtrue&service=youtube&hl=en"},
+{ "Title": "YouTube", "Description": "Share your videos with friends, family and the world", "Keywords": "", "URL": "https://accounts.google.com/AccountChooser?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26next%3D%252Fupload%26feature%3Dredirect_login%26app%3Ddesktop%26action_handle_signin%3Dtrue&service=youtube&hl=en"},
+{ "Title": "  Create your Google Account  ", "Description": "A single username and password gets you into everything Google (Gmail, Chrome, YouTube, Google Maps). Set up your profile and preferences just the way you like. Switch between devices, and pick up wherever you left off.", "Keywords": "", "URL": "https://accounts.google.com/SignUpWithoutGmail?service=youtube&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26next%3D%252Fupload%26feature%3Dredirect_login%26app%3Ddesktop%26action_handle_signin%3Dtrue&hl=en"},
+{ "Title": "About | Google", "Description": "Get the latest news, updates, and happenings at Google. Learn about Google’s core values and company philosophy.", "Keywords": "", "URL": "https://www.google.com/intl/en/about"},
+{ "Title": "Privacy Policy â Privacy & Terms â Google", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/TOS?loc=KE&hl=en&privacy=true"},
+{ "Title": "Google Terms of Service â Privacy & Terms â Google", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/TOS?loc=KE&hl=en"},
+{ "Title": "Google Account Help", "Description": "Official Google Account Help Center where you can find tips and tutorials on using Google Account and other answers to frequently asked questions.", "Keywords": "", "URL": "http://www.google.com/support/accounts?hl=en"},
+{ "Title": "Can't sign in to your Google Account - Google Account Help", "Description": "", "Keywords": "", "URL": "https://support.google.com/accounts/troubleshooter/2402620?#ts=2402553"},
+{ "Title": "Sign in - Google Accounts", "Description": "", "Keywords": "", "URL": "https://myaccount.google.com/"},
+{ "Title": "Google Accounts", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/signin/usernamerecovery?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26next%3D%252Fupload%26feature%3Dredirect_login%26app%3Ddesktop%26action_handle_signin%3Dtrue&service=youtube&hl=en-GB"},
+{ "Title": "YouTube", "Description": "Share your videos with friends, family and the world", "Keywords": "", "URL": "https://accounts.google.com/AccountChooser?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26next%3D%252Fupload%26feature%3Dredirect_login%26app%3Ddesktop%26action_handle_signin%3Dtrue&service=youtube&rip=1"},
+{ "Title": "  Create your Google Account  ", "Description": "A single username and password gets you into everything Google (Gmail, Chrome, YouTube, Google Maps). Set up your profile and preferences just the way you like. Switch between devices and pick up wherever you left off.", "Keywords": "", "URL": "https://accounts.google.com/SignUpWithoutGmail?service=youtube&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26next%3D%252Fupload%26feature%3Dredirect_login%26app%3Ddesktop%26action_handle_signin%3Dtrue"},
+{ "Title": "About | Google", "Description": "Google’s mission is to organise the world’s information and make it universally accessible and useful. Find out about our company history, products and more.", "Keywords": "", "URL": "https://www.google.com/intl/en-GB/about"},
+{ "Title": "Privacy Policy â Privacy & Terms â Google", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/TOS?loc=KE&hl=en-GB&privacy=true"},
+{ "Title": "Google Terms of Service â Privacy & Terms â Google", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/TOS?loc=KE&hl=en-GB"},
+{ "Title": "Google Account Help", "Description": "Official Google Account Help Center where you can find tips and tutorials on using Google Account and other answers to frequently asked questions.", "Keywords": "", "URL": "http://www.google.com/support/accounts?hl=en-GB"},
+{ "Title": "YouTube", "Description": "Share your videos with friends, family and the world", "Keywords": "", "URL": "https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26next%3D%252Fupload%26feature%3Dredirect_login%26app%3Ddesktop%26action_handle_signin%3Dtrue&service=youtube&dsh=-6249149137392943548"},
+{ "Title": "Enable JavaScript - Android - Google Help", "Description": "JavaScript is required for many features to work. Follow the instructions below to enable JavaScript. If you're not already there, launch the internet browser app on your device. Tap your", "Keywords": "", "URL": "https://support.google.com/accounts/answer/23852?hl=en"},
+{ "Title": "Sign in - Google Accounts", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/"},
+{ "Title": "  Create your Google Account  ", "Description": "A single username and password gets you into everything Google (Gmail, Chrome, YouTube, Google Maps). Set up your profile and preferences just the way you like. Switch between devices, and pick up wherever you left off.", "Keywords": "", "URL": "https://accounts.google.com/SignUp?dsh=-6249149137392943548&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26next%3D%252Fupload%26feature%3Dredirect_login%26app%3Ddesktop%26action_handle_signin%3Dtrue&service=youtube&hl=en"},
+{ "Title": "Google Accounts", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/signin/recovery?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26next%3D%252Fupload%26feature%3Dredirect_login%26app%3Ddesktop%26action_handle_signin%3Dtrue&service=youtube"},
+{ "Title": "Create a strong password & a more secure account - Google Account Help", "Description": "A secure password and updated recovery info help protect your Google Account.Step 1: Create a strong passwordA strong password helps you: Keep your personal info safe Protect your emails, fi", "Keywords": "", "URL": "https://support.google.com/accounts/answer/32040?hl=en"},
+{ "Title": "Why Google asks for certain info to create an account - Google Account Help", "Description": "When you create a Google Account, we ask for some personal information. This info helps keep your account secure and makes our services more useful.To learn more about how we use this info, read the", "Keywords": "", "URL": "https://support.google.com/accounts/answer/1733224?hl=en"},
+{ "Title": "Google Account Help", "Description": "Official Google Account Help Center where you can find tips and tutorials on using Google Account and other answers to frequently asked questions.", "Keywords": "", "URL": "https://support.google.com/accounts?hl=en"},
+{ "Title": "Google", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/"},
+
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/products/"},
+
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/commitments/"},
+
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/stories/"},
+{ "Title": "Google", "Description": "", "Keywords": "", "URL": "https://www.google.com/"},
+
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/products"},
+{ "Title": "Google Safety Center", "Description": "From day one at Google, we established a principle that has influenced everything we’ve made since, and everything we’ll make moving forward – respect the user. It’s a commitment to always put you first, and to keep your information safe, private, and in your control.", "Keywords": "", "URL": "https://safety.google"},
+
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/our-commitments"},
+
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/stories"},
+{ "Title": "Build for Everyone - Google Careers", "Description": "", "Keywords": "Explore careers with Google", "URL": "https://careers.google.com/"},
+
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/locations"},
+
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/our-story"},
+{ "Title": "      2004 Founders’ IPO Letter - Investor Relations - Alphabet    ", "Description": "Alphabet Inc. is a holding company that gives ambitious projects the resources, freedom, and focus to make their ideas happen — and will be the parent company of Google, Nest, and other ventures. Alphabet supports and develops companies applying technology to the world’s biggest challenges.", "Keywords": "Alphabet, Technology investment, Investment group, Holding company, Parent company, Google, Nest, Calico, Life Sciences, Health, Medical technology, Google X, Google Labs, X Labs, Ventures, Capital, Startups, Technology Innovation, Internet business, Information Technology", "URL": "https://abc.xyz/investor/founders-letters/2004/ipo-letter.html#_ga=2.165626872.610004439.1532311821-929489725.1521479135"},
+{ "Title": "Google Doodles", "Description": "", "Keywords": "", "URL": "https://www.google.com/doodles"},
+{ "Title": "About | Google", "Description": "Get the latest news, updates, and happenings at Google. Learn about Google’s core values and company philosophy.", "Keywords": "", "URL": "https://www.google.com/intl/en/about#"},
+{ "Title": "Google (@google) • Instagram photos and videos", "Description": "9.4m Followers, 18 Following, 1,031 Posts - See Instagram photos and videos from Google (@google)", "Keywords": "", "URL": "https://instagram.com/google/"},
+{ "Title": "  Google - YouTube", "Description": "Experience the world of Google on our official YouTube channel. Watch videos about our products, technology, company happenings and more. Subscribe to get up...", "Keywords": "Google Technology Science Android "Google drive" Gmail "Google Maps" Nexus "Google Zeitgeist"", "URL": "https://www.youtube.com/user/Google"},
+{ "Title": "Google (@Google) | Twitter", "Description": "The latest Tweets from Google (@Google). #HeyGoogle. Mountain View, CA", "Keywords": "", "URL": "https://twitter.com/google"},
+{ "Title": "Sasisha Kiperuzi chako | Facebook", "Description": "", "Keywords": "", "URL": "https://www.facebook.com/Google"},
+
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.linkedin.com/company/google"},
+{ "Title": "      Contact us – Google    ", "Description": "Ways to contact teams at Google.", "Keywords": "", "URL": "https://www.google.com/contact/"},
+{ "Title": "      Alphabet Investor Relations - Investor Relations - Alphabet    ", "Description": "Alphabet Inc. is a holding company that gives ambitious projects the resources, freedom, and focus to make their ideas happen — and will be the parent company of Google, Nest, and other ventures. Alphabet supports and develops companies applying technology to the world’s biggest challenges.", "Keywords": "Alphabet, Technology investment, Investment group, Holding company, Parent company, Google, Nest, Calico, Life Sciences, Health, Medical technology, Google X, Google Labs, X Labs, Ventures, Capital, Startups, Technology Innovation, Internet business, Information Technology", "URL": "https://abc.xyz/investor/"},
+
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/locations/"},
+{ "Title": "The Keyword | Google", "Description": "Discover all the latest about our products, technology, and Google culture on our official blog.", "Keywords": "", "URL": "https://www.blog.google/"},
+{ "Title": "Think with Google - Discover Marketing Research & Digital Trends", "Description": "Uncover the latest marketing research and digital trends with data reports, guides, infographics, and articles from Think with Google.", "Keywords": "", "URL": "https://www.thinkwithgoogle.com/"},
+{ "Title": "Press Corner | The Keyword", "Description": "", "Keywords": "", "URL": "https://www.blog.google/press/"},
+{ "Title": "      Blogs and Social Media – News from Google – Google    ", "Description": "", "Keywords": "", "URL": "https://www.google.com/press/blog-social-directory.html"},
+{ "Title": "Permissions – Google", "Description": "", "Keywords": "", "URL": "https://www.google.com/permissions/"},
+
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://services.google.com/fb/forms/speakerrequest/"},
+{ "Title": "      Application Security – Google    ", "Description": "", "Keywords": "", "URL": "https://www.google.com/about/appsecurity/"},
+{ "Title": "      Software Principles | Google – Google    ", "Description": "", "Keywords": "", "URL": "https://www.google.com/about/software-principles.html"},
+{ "Title": "      Unwanted Software Policy | Google – Google    ", "Description": "", "Keywords": "", "URL": "https://www.google.com/about/unwanted-software-policy.html"}]
